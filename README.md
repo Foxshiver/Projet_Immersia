@@ -1,4 +1,3 @@
 # Projet_Immersia
-LA BITE <3
-Bullshit
+This project concist to create a project about sound in an specific universe
 Salut Martin !
