@@ -1,1 +1,33 @@
-Salut Vincent.
+//Init repository
+git init
+
+//Connect the repo to online server
+git remote add origin <adress>
+
+//Get the difference between local data and server data
+get fetch
+
+//Connect your remote to the master branch
+git branch --set-upstream-to=origin/master master
+
+//Get files
+git pull
+
+//Add files
+git add <file.ext> // exemple : git add test1.cs
+
+//If modifying file
+git stage <file.ext>  // sometimes not necessary
+
+//Add modification
+git commit -m "message"
+
+//Get change
+git pull
+
+//Send modifications
+git push
+
+
+// password just one time
+ git config --global credential.helper wincred
