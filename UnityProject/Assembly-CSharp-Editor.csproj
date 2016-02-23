@@ -48,12 +48,14 @@
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
      <Compile Include="Assets\MiddleVR\Editor\VRCustomEditor.cs" />
      <Compile Include="Assets\MiddleVR\Editor\VRWebViewEditor.cs" />
+     <Compile Include="Assets\Pixelplacement\iTweenPath\Editor\iTweenPathEditor.cs" />
      <Compile Include="Assets\Tools\Tools\Editor\DependancyChecker.cs" />
      <Compile Include="Assets\VRHands\Editor\VRHandEditor.cs" />
      <None Include="Assets\MiddleVR\Assets\Materials\VR3DTextShader.shader" />
      <None Include="Assets\MiddleVR\Assets\Materials\AlphaSelfIllum.shader" />
      <None Include="Assets\MiddleVR\Assets\Materials\VRRiftDK2DistortionMesh.shader" />
      <None Include="Assets\MiddleVR\Assets\Materials\OVRLensCorrection.shader" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
      <None Include="Assets\MiddleVR\Assets\Materials\ScreenProximityWarningShader.shader" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
