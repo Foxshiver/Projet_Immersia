@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 4cd593cc09d69294d9ded14ea28fbecd
+timeCreated: 1456244983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: escalier1.12_-_Copie
+    100004: escalier1.12_-_Copie 1
+    100006: escalier1.12_-_Copie 2
+    100008: escalier1.12_-_Copie 3
+    100010: escalier1.12_-_Copie 4
+    100012: escalier1.12_-_Copie 5
+    100014: escalier1.12_-_Copie 6
+    100016: escalier1.12_-_Copie 7
+    100018: escalier1.12_-_Copie_1
+    100020: escalier1.12_-_Copie_1 1
+    100022: escalier1.12_-_Copie_1 10
+    100024: escalier1.12_-_Copie_1 11
+    100026: escalier1.12_-_Copie_1 2
+    100028: escalier1.12_-_Copie_1 3
+    100030: escalier1.12_-_Copie_1 4
+    100032: escalier1.12_-_Copie_1 5
+    100034: escalier1.12_-_Copie_1 6
+    100036: escalier1.12_-_Copie_1 7
+    100038: escalier1.12_-_Copie_1 8
+    100040: escalier1.12_-_Copie_1 9
+    100042: ID110
+    100044: ID120
+    100046: ID128
+    100048: ID136
+    100050: ID144
+    100052: ID152
+    100054: ID160
+    100056: ID168
+    100058: ID172
+    100060: ID176
+    100062: ID180
+    100064: ID184
+    100066: ID188
+    100068: ID19
+    100070: ID19 1
+    100072: ID19 2
+    100074: ID19 3
+    100076: ID19 4
+    100078: ID19 5
+    100080: ID19 6
+    100082: ID19 7
+    100084: ID192
+    100086: ID196
+    100088: ID200
+    100090: ID32
+    100092: ID32 1
+    100094: ID32 2
+    100096: ID32 3
+    100098: ID32 4
+    100100: ID32 5
+    100102: ID32 6
+    100104: ID32 7
+    100106: ID36
+    100108: ID36 1
+    100110: ID36 2
+    100112: ID36 3
+    100114: ID36 4
+    100116: ID36 5
+    100118: ID36 6
+    100120: ID36 7
+    100122: ID40
+    100124: ID40 1
+    100126: ID40 2
+    100128: ID40 3
+    100130: ID40 4
+    100132: ID40 5
+    100134: ID40 6
+    100136: ID40 7
+    100138: ID44
+    100140: ID44 1
+    100142: ID44 2
+    100144: ID44 3
+    100146: ID44 4
+    100148: ID44 5
+    100150: ID44 6
+    100152: ID44 7
+    100154: ID65
+    100156: ID65 1
+    100158: ID65 10
+    100160: ID65 11
+    100162: ID65 2
+    100164: ID65 3
+    100166: ID65 4
+    100168: ID65 5
+    100170: ID65 6
+    100172: ID65 7
+    100174: ID65 8
+    100176: ID65 9
+    100178: ID73
+    100180: ID73 1
+    100182: ID73 10
+    100184: ID73 11
+    100186: ID73 2
+    100188: ID73 3
+    100190: ID73 4
+    100192: ID73 5
+    100194: ID73 6
+    100196: ID73 7
+    100198: ID73 8
+    100200: ID73 9
+    100202: ID77
+    100204: ID77 1
+    100206: ID77 10
+    100208: ID77 11
+    100210: ID77 2
+    100212: ID77 3
+    100214: ID77 4
+    100216: ID77 5
+    100218: ID77 6
+    100220: ID77 7
+    100222: ID77 8
+    100224: ID77 9
+    100226: ID81
+    100228: ID81 1
+    100230: ID81 10
+    100232: ID81 11
+    100234: ID81 2
+    100236: ID81 3
+    100238: ID81 4
+    100240: ID81 5
+    100242: ID81 6
+    100244: ID81 7
+    100246: ID81 8
+    100248: ID81 9
+    100250: ID85
+    100252: ID85 1
+    100254: ID85 10
+    100256: ID85 11
+    100258: ID85 2
+    100260: ID85 3
+    100262: ID85 4
+    100264: ID85 5
+    100266: ID85 6
+    100268: ID85 7
+    100270: ID85 8
+    100272: ID85 9
+    100274: instance_0
+    100276: instance_1
+    100278: instance_10
+    100280: instance_11
+    100282: instance_12
+    100284: instance_13
+    100286: instance_14
+    100288: instance_15
+    100290: instance_16
+    100292: instance_17
+    100294: instance_18
+    100296: instance_19
+    100298: instance_2
+    100300: instance_3
+    100302: instance_4
+    100304: instance_5
+    100306: instance_6
+    100308: instance_7
+    100310: instance_8
+    100312: instance_9
+    100314: Last Saved SketchUp View
+    400000: //RootNode
+    400002: escalier1.12_-_Copie
+    400004: escalier1.12_-_Copie 1
+    400006: escalier1.12_-_Copie 2
+    400008: escalier1.12_-_Copie 3
+    400010: escalier1.12_-_Copie 4
+    400012: escalier1.12_-_Copie 5
+    400014: escalier1.12_-_Copie 6
+    400016: escalier1.12_-_Copie 7
+    400018: escalier1.12_-_Copie_1
+    400020: escalier1.12_-_Copie_1 1
+    400022: escalier1.12_-_Copie_1 10
+    400024: escalier1.12_-_Copie_1 11
+    400026: escalier1.12_-_Copie_1 2
+    400028: escalier1.12_-_Copie_1 3
+    400030: escalier1.12_-_Copie_1 4
+    400032: escalier1.12_-_Copie_1 5
+    400034: escalier1.12_-_Copie_1 6
+    400036: escalier1.12_-_Copie_1 7
+    400038: escalier1.12_-_Copie_1 8
+    400040: escalier1.12_-_Copie_1 9
+    400042: ID110
+    400044: ID120
+    400046: ID128
+    400048: ID136
+    400050: ID144
+    400052: ID152
+    400054: ID160
+    400056: ID168
+    400058: ID172
+    400060: ID176
+    400062: ID180
+    400064: ID184
+    400066: ID188
+    400068: ID19
+    400070: ID19 1
+    400072: ID19 2
+    400074: ID19 3
+    400076: ID19 4
+    400078: ID19 5
+    400080: ID19 6
+    400082: ID19 7
+    400084: ID192
+    400086: ID196
+    400088: ID200
+    400090: ID32
+    400092: ID32 1
+    400094: ID32 2
+    400096: ID32 3
+    400098: ID32 4
+    400100: ID32 5
+    400102: ID32 6
+    400104: ID32 7
+    400106: ID36
+    400108: ID36 1
+    400110: ID36 2
+    400112: ID36 3
+    400114: ID36 4
+    400116: ID36 5
+    400118: ID36 6
+    400120: ID36 7
+    400122: ID40
+    400124: ID40 1
+    400126: ID40 2
+    400128: ID40 3
+    400130: ID40 4
+    400132: ID40 5
+    400134: ID40 6
+    400136: ID40 7
+    400138: ID44
+    400140: ID44 1
+    400142: ID44 2
+    400144: ID44 3
+    400146: ID44 4
+    400148: ID44 5
+    400150: ID44 6
+    400152: ID44 7
+    400154: ID65
+    400156: ID65 1
+    400158: ID65 10
+    400160: ID65 11
+    400162: ID65 2
+    400164: ID65 3
+    400166: ID65 4
+    400168: ID65 5
+    400170: ID65 6
+    400172: ID65 7
+    400174: ID65 8
+    400176: ID65 9
+    400178: ID73
+    400180: ID73 1
+    400182: ID73 10
+    400184: ID73 11
+    400186: ID73 2
+    400188: ID73 3
+    400190: ID73 4
+    400192: ID73 5
+    400194: ID73 6
+    400196: ID73 7
+    400198: ID73 8
+    400200: ID73 9
+    400202: ID77
+    400204: ID77 1
+    400206: ID77 10
+    400208: ID77 11
+    400210: ID77 2
+    400212: ID77 3
+    400214: ID77 4
+    400216: ID77 5
+    400218: ID77 6
+    400220: ID77 7
+    400222: ID77 8
+    400224: ID77 9
+    400226: ID81
+    400228: ID81 1
+    400230: ID81 10
+    400232: ID81 11
+    400234: ID81 2
+    400236: ID81 3
+    400238: ID81 4
+    400240: ID81 5
+    400242: ID81 6
+    400244: ID81 7
+    400246: ID81 8
+    400248: ID81 9
+    400250: ID85
+    400252: ID85 1
+    400254: ID85 10
+    400256: ID85 11
+    400258: ID85 2
+    400260: ID85 3
+    400262: ID85 4
+    400264: ID85 5
+    400266: ID85 6
+    400268: ID85 7
+    400270: ID85 8
+    400272: ID85 9
+    400274: instance_0
+    400276: instance_1
+    400278: instance_10
+    400280: instance_11
+    400282: instance_12
+    400284: instance_13
+    400286: instance_14
+    400288: instance_15
+    400290: instance_16
+    400292: instance_17
+    400294: instance_18
+    400296: instance_19
+    400298: instance_2
+    400300: instance_3
+    400302: instance_4
+    400304: instance_5
+    400306: instance_6
+    400308: instance_7
+    400310: instance_8
+    400312: instance_9
+    400314: Last Saved SketchUp View
+    2300000: //RootNode
+    2300002: escalier1.12_-_Copie
+    2300004: escalier1.12_-_Copie 1
+    2300006: escalier1.12_-_Copie 2
+    2300008: escalier1.12_-_Copie 3
+    2300010: escalier1.12_-_Copie 4
+    2300012: escalier1.12_-_Copie 5
+    2300014: escalier1.12_-_Copie 6
+    2300016: escalier1.12_-_Copie 7
+    2300018: escalier1.12_-_Copie_1
+    2300020: escalier1.12_-_Copie_1 1
+    2300022: escalier1.12_-_Copie_1 10
+    2300024: escalier1.12_-_Copie_1 11
+    2300026: escalier1.12_-_Copie_1 2
+    2300028: escalier1.12_-_Copie_1 3
+    2300030: escalier1.12_-_Copie_1 4
+    2300032: escalier1.12_-_Copie_1 5
+    2300034: escalier1.12_-_Copie_1 6
+    2300036: escalier1.12_-_Copie_1 7
+    2300038: escalier1.12_-_Copie_1 8
+    2300040: escalier1.12_-_Copie_1 9
+    2300042: ID110
+    2300044: ID120
+    2300046: ID128
+    2300048: ID136
+    2300050: ID144
+    2300052: ID152
+    2300054: ID160
+    2300056: ID19
+    2300058: ID19 1
+    2300060: ID19 2
+    2300062: ID19 3
+    2300064: ID19 4
+    2300066: ID19 5
+    2300068: ID19 6
+    2300070: ID19 7
+    2300072: ID65
+    2300074: ID65 1
+    2300076: ID65 10
+    2300078: ID65 11
+    2300080: ID65 2
+    2300082: ID65 3
+    2300084: ID65 4
+    2300086: ID65 5
+    2300088: ID65 6
+    2300090: ID65 7
+    2300092: ID65 8
+    2300094: ID65 9
+    3300000: //RootNode
+    3300002: escalier1.12_-_Copie
+    3300004: escalier1.12_-_Copie 1
+    3300006: escalier1.12_-_Copie 2
+    3300008: escalier1.12_-_Copie 3
+    3300010: escalier1.12_-_Copie 4
+    3300012: escalier1.12_-_Copie 5
+    3300014: escalier1.12_-_Copie 6
+    3300016: escalier1.12_-_Copie 7
+    3300018: escalier1.12_-_Copie_1
+    3300020: escalier1.12_-_Copie_1 1
+    3300022: escalier1.12_-_Copie_1 10
+    3300024: escalier1.12_-_Copie_1 11
+    3300026: escalier1.12_-_Copie_1 2
+    3300028: escalier1.12_-_Copie_1 3
+    3300030: escalier1.12_-_Copie_1 4
+    3300032: escalier1.12_-_Copie_1 5
+    3300034: escalier1.12_-_Copie_1 6
+    3300036: escalier1.12_-_Copie_1 7
+    3300038: escalier1.12_-_Copie_1 8
+    3300040: escalier1.12_-_Copie_1 9
+    3300042: ID110
+    3300044: ID120
+    3300046: ID128
+    3300048: ID136
+    3300050: ID144
+    3300052: ID152
+    3300054: ID160
+    3300056: ID19
+    3300058: ID19 1
+    3300060: ID19 2
+    3300062: ID19 3
+    3300064: ID19 4
+    3300066: ID19 5
+    3300068: ID19 6
+    3300070: ID19 7
+    3300072: ID65
+    3300074: ID65 1
+    3300076: ID65 10
+    3300078: ID65 11
+    3300080: ID65 2
+    3300082: ID65 3
+    3300084: ID65 4
+    3300086: ID65 5
+    3300088: ID65 6
+    3300090: ID65 7
+    3300092: ID65 8
+    3300094: ID65 9
+    4300000: SketchUp
+    4300002: ID110
+    4300004: ID120
+    4300006: ID128
+    4300008: ID136
+    4300010: ID144
+    4300012: ID152
+    4300014: ID160
+    4300016: escalier1.12_-_Copie
+    4300018: ID19
+    4300020: escalier1.12_-_Copie_1
+    4300022: ID65
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
