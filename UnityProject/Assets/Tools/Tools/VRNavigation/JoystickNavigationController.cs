@@ -113,7 +113,7 @@ public class JoystickNavigationController : MonoBehaviour
 
     void LateUpdate()
     {
-        if (VRTools.GetMode() == VRTools.UNITY)
-            character.transform.localRotation = Quaternion.identity;
+        /*if (VRTools.GetMode() == VRTools.UNITY)
+            character.transform.localRotation = Quaternion.identity;*/
     }
 }

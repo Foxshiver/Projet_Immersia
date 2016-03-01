@@ -78,10 +78,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="MiddleVR_dotNet">
- <HintPath>C:/Users/Martin/Documents/COURS/ESIR2/PROJET_IMMERSIA/UnityProject/Assets/MiddleVR/MiddleVR_dotNet.dll</HintPath>
+ <HintPath>C:/Users/JSM2016/Documents/Projet_Immersia/UnityProject/Assets/MiddleVR/MiddleVR_dotNet.dll</HintPath>
  </Reference>
  <Reference Include="MiddleVR_Unity3D">
- <HintPath>C:/Users/Martin/Documents/COURS/ESIR2/PROJET_IMMERSIA/UnityProject/Assets/MiddleVR/MiddleVR_Unity3D.dll</HintPath>
+ <HintPath>C:/Users/JSM2016/Documents/Projet_Immersia/UnityProject/Assets/MiddleVR/MiddleVR_Unity3D.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
