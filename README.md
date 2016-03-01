@@ -1,3 +1,2 @@
 # Projet_Immersia
-This project concist to create a project about sound in an specific universe
-Salut Martin !
+This project aims to immerse an user in a virtual reality that retraces the history of music.
